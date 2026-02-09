@@ -1,1 +1,1 @@
-# Hibernate---OneToOne---Unidirectional-Mapping
+# Hibernate-OneToOne-Unidirectional-Mapping
